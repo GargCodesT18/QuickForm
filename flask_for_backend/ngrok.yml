@@ -1,0 +1,8 @@
+version: 3
+agent:
+  authtoken: 30Hvt1AVs9aODRxwbW4wvhx5ecN_4ygLEcnK94Rybow14jbSp
+tunnels:
+  flask-app:
+    proto: http
+    addr: 5000
+    domain: raptor-absolute-possum.ngrok-free.app
