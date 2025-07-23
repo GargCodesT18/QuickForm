@@ -16,9 +16,10 @@ QuickForm is a simple, ngrok-powered web app that collects user-submitted form d
 
 ## 🛠️ Tech Stack
 
+- Dart and Flutter 
 - Python (or Node.js — update if needed)
 - MySQL
-- Ngrok
+- Ngrok  (as API gateway)
 - YAML for configuration
 
 ---
@@ -27,6 +28,8 @@ QuickForm is a simple, ngrok-powered web app that collects user-submitted form d
 
 ### ✅ Prerequisites
 
+- Flutter and Dart installed 
+- IDE i.e Android Studio and Visual Studio Code 
 - Python 3.x installed
 - MySQL installed and running
 - Ngrok account & installed (`https://ngrok.com`)
